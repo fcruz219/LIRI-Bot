@@ -16,6 +16,10 @@ Using "movie-this" it will search for whatever movie is put into the search.
 If no movie is searched then this is what will pop up!
 ![movie-this empty](https://user-images.githubusercontent.com/20998910/54946663-01835a00-4f0f-11e9-9769-c15284574a65.gif)
 
+##Spotify-This
+Using "spotify-this-song" it will search what ever song is put into the search
+![spotify-this](https://user-images.githubusercontent.com/20998910/54946679-08aa6800-4f0f-11e9-9298-a90c6f88e185.gif)
+
+If no song is searched then this is what will pop up!
 ![Spotify-this empty](https://user-images.githubusercontent.com/20998910/54946671-06480e00-4f0f-11e9-99e1-5af53ae77ad3.gif)
 
-![spotify-this](https://user-images.githubusercontent.com/20998910/54946679-08aa6800-4f0f-11e9-9298-a90c6f88e185.gif)
