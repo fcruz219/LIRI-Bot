@@ -12,6 +12,7 @@ Using "do-what-it-says" it will go through the random.txt it will search using t
 ## Movie-This
 Using "movie-this" it will search for whatever movie is put into the search.
 ![movie-this](https://user-images.githubusercontent.com/20998910/54946667-03e5b400-4f0f-11e9-9b63-e2170280a960.gif)
+
 If no movie is searched then this is what will pop up!
 ![movie-this empty](https://user-images.githubusercontent.com/20998910/54946663-01835a00-4f0f-11e9-9769-c15284574a65.gif)
 
