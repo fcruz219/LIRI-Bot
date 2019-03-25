@@ -1,5 +1,4 @@
 require("dotenv").config();
-
 var axios = require("axios");
 var keys = require("./keys.js");
 var Spotify = require('node-spotify-api')
@@ -12,10 +11,10 @@ var action = userinput[2];
 var value = userinput[3];
 
 
-for (i = 4; i < userinput.length; i++) {
+for (i = 4; i < userinput.length; i++) { 
     value += '+' + userinput[i];
 }
-function randomizer(){
+function blah(){
 switch (action) {
     case "concert-this":
         concert();
@@ -34,10 +33,13 @@ switch (action) {
         break;
 }
 }
-randomizer();
+blah();
 
 // SPOTIFY
 function spotifysearch() {
+    if (!value) {
+        value = "The Sign Ace of Base"
+    }
 
     spotify
         .search({ type: 'track', query: value, limit: 1 })
@@ -64,7 +66,8 @@ function omdb() {
 
     axios.get(movieUrl).then(
         function (response) {
-            if (value === '') {
+            if (!value) {
+                value = "Mr Nobody"
                 console.log("If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/")
                 console.log("It's on Netflix!")
 
@@ -109,7 +112,6 @@ function concert() {
 
 // DO WHAT IT SAYS
 function random() {
-    console.log('yes');
     fs.readFile("random.txt", "utf8", function (error, data) {
         if (error) {
             console.log(error);
@@ -126,7 +128,7 @@ function random() {
         }
         console.log(value)
         console.log(action)
-        randomizer()
+        blah()
     })
 
 
