@@ -25,3 +25,7 @@ If no song is searched then this is what will pop up!
 ![Spotify-this empty](https://user-images.githubusercontent.com/20998910/54946671-06480e00-4f0f-11e9-99e1-5af53ae77ad3.gif)
 
 **This application uses Javascript, node, along with 3 API's to pull the info given. It runs/outputs info directly in the terminal**
+
+## Link to Updated Portfolio
+
+<https://fcruz219.github.io/updated-portfolio/portfolio.html>
