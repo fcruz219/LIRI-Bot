@@ -1,4 +1,5 @@
 # LIRI-bot
+LIRI, similar to Siri, is a node based application that you can use to search various API's(Bands in town, Spotify, and Omdb). This app will seach all of the aformentioned API's and give you the results you are looking for. 
 
 ## Concert-This
 Using Concert-this in node you can type in a name of an artist and all upcoming shows will show up in the console.
