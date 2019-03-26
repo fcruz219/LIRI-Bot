@@ -12,7 +12,7 @@ Using "do-what-it-says" it will go through the random.txt it will search using t
 
 ## Movie-This
 Using "movie-this" it will search for whatever movie is put into the search.
-![movie-this](https://user-images.githubusercontent.com/20998910/54946667-03e5b400-4f0f-11e9-9b63-e2170280a960.gif)
+![movie-this](https://user-images.githubusercontent.com/20998910/55026579-a66a6980-4fd9-11e9-90d1-a902235ad5cc.gif)
 
 If no movie is searched then this is what will pop up!
 ![movie-this empty](https://user-images.githubusercontent.com/20998910/54946663-01835a00-4f0f-11e9-9769-c15284574a65.gif)
@@ -24,3 +24,4 @@ Using "spotify-this-song" it will search what ever song is put into the search
 If no song is searched then this is what will pop up!
 ![Spotify-this empty](https://user-images.githubusercontent.com/20998910/54946671-06480e00-4f0f-11e9-99e1-5af53ae77ad3.gif)
 
+**This application uses Javascript, node, alone with 3 API's to pull the info given. It runs/outputs info directly in the terminal**
