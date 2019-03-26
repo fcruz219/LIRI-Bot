@@ -8,7 +8,7 @@ Using Concert-this in node you can type in a name of an artist and all upcoming 
 
 ## Do What It Says
 Using "do-what-it-says" it will go through the random.txt it will search using the appropriate search function.
-![do-what](https://user-images.githubusercontent.com/20998910/54946508-96398800-4f0e-11e9-90c2-e1030520cd8b.gif)
+![do-what-it-says](https://user-images.githubusercontent.com/20998910/55026370-39ef6a80-4fd9-11e9-84fa-53e7aed2625c.gif)
 
 ## Movie-This
 Using "movie-this" it will search for whatever movie is put into the search.
